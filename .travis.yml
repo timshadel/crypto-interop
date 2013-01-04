@@ -1,3 +1,4 @@
+language: node_js
 script:  ./test_all.sh
 install: ./setup_tests.sh
 node_js:
