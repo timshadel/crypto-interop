@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/timshadel/crypto-interop.png)](https://travis-ci.org/timshadel/crypto-interop)
+[![Build Status](https://travis-ci.org/timshadel/crypto-interop.png?branch=master)](https://travis-ci.org/timshadel/crypto-interop)
 
 # Crypto Interop
 
