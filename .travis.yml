@@ -1,0 +1,4 @@
+script:  ./test_all.sh
+install: ./setup_tests.sh
+node_js:
+   - 0.8
