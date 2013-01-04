@@ -20,8 +20,6 @@ Tim Shadel
 
 ### Other questions
 
-Feel free to chat with the Crypto Interop core team (and many other users) on IRC in the  [#project](irc://irc.freenode.net/project) channel on Freenode, or via email on the [Project mailing list]().
-
 ### Copyright
 
 Copyright © 2013 Tim Shadel. See [LICENSE]() for details.
